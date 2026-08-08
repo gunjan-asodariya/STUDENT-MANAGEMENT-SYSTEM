@@ -1,6 +1,6 @@
 # STUDENT-MANAGEMENT-SYSTEM
 STUDENT MANAGEMENT SYSTEM FROM CODING GITA
- ```
+ 
 # student management system
 
 ## features
@@ -9,4 +9,4 @@ STUDENT MANAGEMENT SYSTEM FROM CODING GITA
 - student login
 - student profile
 - student dashboard
-```  
+
