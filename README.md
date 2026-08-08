@@ -1,6 +1,3 @@
-# STUDENT-MANAGEMENT-SYSTEM
-STUDENT MANAGEMENT SYSTEM FROM CODING GITA
- 
 # student management system
 
 ## features
